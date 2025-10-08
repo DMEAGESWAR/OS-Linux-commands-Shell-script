@@ -535,7 +535,7 @@ echo “Sorry, you are not the owner of the /etc/passwd file”
 fi
  ```
 ./psswdperm.sh
-## OUTPUT
+## OUTPUT 
 ![alt text](imgs/psswdperm.sh.png)
 # check if with file location
 cat>ifnested.sh 
